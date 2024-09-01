@@ -45,22 +45,6 @@ This project aims to address these challenges by developing a dedicated platform
 2.	Post different study materials
 3.	Answer questions raised by students in the public forum
 
-![image](https://github.com/user-attachments/assets/e69b434c-5a04-4a89-804a-c5cf9484ca02)
-
-![image](https://github.com/user-attachments/assets/2d8cedc6-665d-467c-9621-e04ba68979af)
-
-![image](https://github.com/user-attachments/assets/b174f094-bf82-4d89-93dd-c663f3b57a54)
-
-![image](https://github.com/user-attachments/assets/60289af0-e8cc-4e3d-8654-417493f50ebf)
-
-![image](https://github.com/user-attachments/assets/68070dd4-b96b-4b9c-b7f8-e8697a1da2f9)
-
-![image](https://github.com/user-attachments/assets/3a1fa5b7-e112-4d5d-81b9-44112c9dac02)
-
-![image](https://github.com/user-attachments/assets/11ae8976-c871-4f8f-9afe-c2447b870b6c)
-
-![image](https://github.com/user-attachments/assets/d36ba6d3-7441-4758-92b6-4f2250e67b46)
-
 [CLICK HERE TO VIEW FULL DOCUMENTATION](https://drive.google.com/file/d/1GJJn2nUknTlSQ2n5f7SJ7h0SRszDEpVC/view?usp=sharing)
 
 
